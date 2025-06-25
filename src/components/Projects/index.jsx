@@ -7,7 +7,7 @@ export function Projects() {
       <Card>
         <Link target="_blank" to="https://nesfly.com">
           <img src="/nesfly-banner.png" />
-          <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit</h3>
+          <h3>Nesfly</h3>
           <p>
             Nesfly é uma solução completa de gestão empresarial que otimiza seus
             processos, economiza tempo e aumenta a eficiência operacional.

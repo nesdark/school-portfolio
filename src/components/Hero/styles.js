@@ -21,8 +21,8 @@ export const Container = styled.div`
       width: 20rem;
       height: 20rem;
 
-      object-fit: cover;
-      object-position: -60px;
+      /* object-fit: cover; */
+      /* object-position: -60px; */
 
       border-radius: 100%;
     }

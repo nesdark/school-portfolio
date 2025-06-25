@@ -4,10 +4,7 @@ export function Hero() {
   return (
     <Container>
       <div className="profile-photo">
-        <img
-          src="https://image.geekship.com.br/JGtqkVSJJ_naF4ZaMsz8xABytm4=/2200x0/smart/filters:strip_icc():format(webp)/hull.geekship.com.br/wp-content/uploads/2025/01/Vinland-Saga.jpg"
-          alt="No"
-        />
+        <img src="/me.jpg" alt="No" />
       </div>
       <h3 className="code-font">Olá, meu nome é Christian!</h3>
       <h2>Sou um programador full-stack</h2>

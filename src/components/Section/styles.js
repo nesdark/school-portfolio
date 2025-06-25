@@ -5,7 +5,9 @@ export const Container = styled.section`
   flex-direction: column;
   gap: 2rem;
 
-  margin: 3rem 10rem 0;
+  margin: 3rem auto 0;
+
+  max-width: 81rem;
 
   h2 {
     font-size: 2rem;
